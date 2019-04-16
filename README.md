@@ -1,6 +1,8 @@
 # NodeMCU Controlled Timed Charger
 This is a hobby project that involves designing a circuit (using an MCU) for **turning ON/OFF** an AC appliance for a given period of time.
 
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Frusty-electron%2Fnodemcu-timed-charger)
+
 ## Features of the Device:
 
 * Control AC Appliances by simply connecting to the AC Female Socket provided *(tested only on smartphone chargers, will definitely fail if used with appliances like an oven or iron)* 
