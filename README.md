@@ -24,7 +24,7 @@ This is a hobby project that involves designing a circuit (using an MCU) for **t
 * Setup up the circuit as shown in the schematic given below. The Schematic can be found as a PDF in the folder `circuit-schematics`.
 
 
-![](circuit-schematics\simple-schematic.png)
+![](circuit-schematics/simple-schematic.png)
 
 
 * Install Arduino-IDE and setup the libraries for flashing code into NodeMCU devices using the instructions given in `arduino-ide-libraries\readme.txt`
